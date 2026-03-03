@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Test
+test_training/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# Ultralytics / YOLO
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.mlmodel
+*.tflite
+*.yaml.cache
+*.json.cache
+
+# Dataset artifacts
+datasets/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Training logs
+*.log
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# Environment/config
+*.env
+.env.*
+config/*.local.*
+
+# Build / dist
+build/
+dist/

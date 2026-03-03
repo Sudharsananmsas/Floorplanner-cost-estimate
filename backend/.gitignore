@@ -1,0 +1,27 @@
+########################################
+# Python backend ignores
+########################################
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python build artifacts
+*.egg-info/
+dist/
+build/
+
+# Local settings
+*.sqlite3
+*.db
+*.log
+
+uploads/

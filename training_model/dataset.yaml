@@ -1,0 +1,21 @@
+path: D:/floorplan-app/floorplanner-cost-estimate/training_model/data
+
+train: images/train
+val: images/val
+
+names:
+  0: DOAS
+  1: Damper BD
+  2: Damper ZD
+  3: EX RTU
+  4: Exhaust Grille 12*12(E)
+  5: Fan EF
+  6: RTU-1
+  7: RTU-2
+  8: RTU-3
+  9: RTU-4
+  10: Return Grille 24*12(D)
+  11: Return Grille 24*24(C)
+  12: Supply Diffuser 12*12(B)
+  13: Supply Diffuser 24*24(A)
+  14: background

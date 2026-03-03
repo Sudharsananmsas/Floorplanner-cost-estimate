@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart
+pymupdf
+pillow
+pandas
+openpyxl
+aiofiles
+ultralytics 
+python-dotenv
+torch
+
